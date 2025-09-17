@@ -1,0 +1,49 @@
+Día 1
+¿Qué hice ayer? Redacté el plan de pruebas inicial.
+¿Qué haré hoy? Ejecutaré pruebas de usuarios repetidos y contraseñas seguras.
+¿Qué impedimentos tengo? Ninguno por el momento.
+
+Día 2
+¿Qué hice ayer? Probé usuarios repetidos y contraseñas seguras.
+¿Qué haré hoy? Realizaré pruebas de login correcto/incorrecto y captcha.
+¿Qué impedimentos tengo? Solo validar datos de prueba antes de ejecutar.
+
+Día 3
+¿Qué hice ayer? Probé login con casos correctos, incorrectos y captcha.
+¿Qué haré hoy? Ejecutaré pruebas CRUD de admin y registro de secretaria.
+¿Qué impedimentos tengo? Dependo de acceso a BD para validar transacciones.
+
+Día 4
+¿Qué hice ayer? Realicé pruebas CRUD de admin y registro secretaria.
+¿Qué haré hoy? Haré pruebas de gestión de usuarios.
+¿Qué impedimentos tengo? Revisión de credenciales de usuarios de prueba.
+
+Día 5
+¿Qué hice ayer? Probé gestión de usuarios.
+¿Qué haré hoy? Ejecutaré pruebas de bitácora de accesos y transacciones.
+¿Qué impedimentos tengo? Requiere que los logs estén habilitados.
+
+Día 6
+¿Qué hice ayer? Probé bitácora de accesos y transacciones.
+¿Qué haré hoy? Realizaré pruebas de reportes de última conexión y datos personales.
+¿Qué impedimentos tengo? Ninguno relevante.
+
+Día 7
+¿Qué hice ayer? Probé reportes de última conexión y datos personales.
+¿Qué haré hoy? Ejecutaré pruebas de cambios de contraseña y reporte de tiempo promedio.
+¿Qué impedimentos tengo? Dependo de varias cuentas para pruebas de contraseña.
+
+Día 8
+¿Qué hice ayer? Realicé pruebas de cambios de contraseña y tiempos promedio.
+¿Qué haré hoy? Haré pruebas de exportación de reportes, filtros y login de usuarios bloqueados.
+¿Qué impedimentos tengo? Ninguno significativo.
+
+Día 9
+¿Qué hice ayer? Probé exportación de reportes, filtros y login en usuarios bloqueados.
+¿Qué haré hoy? Ejecutaré pruebas de integración de flujos de seguridad y plan de pruebas.
+¿Qué impedimentos tengo? Necesito coordinación con el equipo para la integración.
+
+Día 10:
+¿Qué hice ayer? Probé exportación de reportes, filtros y login en usuarios bloqueados.
+¿Qué haré hoy? Ejecutaré pruebas de integración de flujos de seguridad y plan de pruebas.
+¿Qué impedimentos tengo? Solo coordinación con el equipo para validar la documentación final.
