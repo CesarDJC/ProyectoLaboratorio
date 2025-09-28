@@ -1,0 +1,49 @@
+Día 1
+• ¿Qué hice ayer?
+Definí los códigos de retorno numéricos para errores y éxito en los procedimientos almacenados.
+• ¿Qué haré hoy?
+Realizar procedimientos almacenados para la tabla estudiantes.
+• ¿Qué impedimentos tengo?
+No tengo las tablas principales.
+
+Día 2
+• ¿Qué hice ayer?
+Realice los procedimientos almacenados de creación, lectura, actualización y eliminación para la tabla estudiantes.
+• ¿Qué haré hoy?
+Iniciar procedimientos para gestión de usuarios.
+• ¿Qué impedimentos tengo?
+Requiero los roles para saber quienes tienen acceso a los procedimientos almacenados
+
+Día 3
+• ¿Qué hice ayer?
+Iniciar la creación de los procedimientos almacenados para la tabla usuarios.
+• ¿Qué haré hoy?
+Manejar la vista, inserción y eliminación de usuarios con validación de duplicados.
+• ¿Qué impedimentos tengo?
+No cuento con la tabla de bitácora de transacciones
+
+Día 4
+• ¿Qué hice ayer?
+Implementar la vista, inserción y eliminación de usuarios con validación de duplicados.
+• ¿Qué haré hoy?
+Crear el procedimiento almacenado para bloqueo y desbloqueo de usuarios.
+• ¿Qué impedimentos tengo?
+(Terminar lo de ayer xdd) Hasta el momento ninguno.
+
+
+Día 5
+• ¿Qué hice ayer?
+Realice el procedimiento almacenado para bloqueo y desbloqueo de usuarios.
+• ¿Qué haré hoy?
+Crear consultas con filtros en las tablas de bitácoras.
+• ¿Qué impedimentos tengo?
+No poseer las ultimas implementaciones de las tablas.
+
+
+Día 6
+• ¿Qué hice ayer?
+Establecer consultas con filtros en las bitácoras de accesos y transacciones.
+• ¿Qué haré hoy?
+Ajustar los procedimientos almacenados según resultados de pruebas.
+• ¿Qué impedimentos tengo?
+No cuento con los resultados de las pruebas.
