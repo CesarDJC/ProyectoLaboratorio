@@ -1,49 +1,29 @@
 Día 1
 ¿Qué hice ayer? Redacté el plan de pruebas inicial.
-¿Qué haré hoy? Ejecutaré pruebas de usuarios repetidos y contraseñas seguras.
+¿Qué haré hoy? Ejecutaré pruebas de usuarios repetidos y de reglas/seguridad de contraseñas.
 ¿Qué impedimentos tengo? Ninguno por el momento.
 
 Día 2
-¿Qué hice ayer? Probé usuarios repetidos y contraseñas seguras.
-¿Qué haré hoy? Realizaré pruebas de login correcto/incorrecto y captcha.
-¿Qué impedimentos tengo? Solo validar datos de prueba antes de ejecutar.
+¿Qué hice ayer? Probé usuarios repetidos y validaciones de contraseñas.
+¿Qué haré hoy? Probaré autenticación, validación de captcha y revisaré cumplimiento de reglas de contraseña.
+¿Qué impedimentos tengo? Necesito validar y preparar los datos de prueba antes de ejecutar.
 
 Día 3
-¿Qué hice ayer? Probé login con casos correctos, incorrectos y captcha.
-¿Qué haré hoy? Ejecutaré pruebas CRUD de admin y registro de secretaria.
-¿Qué impedimentos tengo? Dependo de acceso a BD para validar transacciones.
+¿Qué hice ayer? Probé escenarios de login (correctos, incorrectos) y captcha.
+¿Qué haré hoy? Ejecutaré pruebas CRUD (vista, creación, edición y eliminación) sobre la entidad estudiantes y registraré casos para el módulo de secretaria/administración.
+¿Qué impedimentos tengo? Dependo de acceso a la base de datos para validar transacciones y estados.
 
 Día 4
-¿Qué hice ayer? Realicé pruebas CRUD de admin y registro secretaria.
-¿Qué haré hoy? Haré pruebas de gestión de usuarios.
-¿Qué impedimentos tengo? Revisión de credenciales de usuarios de prueba.
+¿Qué hice ayer? Realicé pruebas CRUD de administración y registro de secretaria.
+¿Qué haré hoy? Haré pruebas específicas de gestión de usuarios: inserción, eliminación y verificación de restricciones.
+¿Qué impedimentos tengo? Revisión / provisión de credenciales de usuarios de prueba necesarias para cubrir todos los roles.
 
 Día 5
-¿Qué hice ayer? Probé gestión de usuarios.
-¿Qué haré hoy? Ejecutaré pruebas de bitácora de accesos y transacciones.
-¿Qué impedimentos tengo? Requiere que los logs estén habilitados.
+¿Qué hice ayer? Probé la gestión de usuarios.
+¿Qué haré hoy? Ejecutaré pruebas de bitácora de accesos y transacciones, además validaré flujos de cambio de contraseña y bloqueo/desbloqueo de cuentas.
+¿Qué impedimentos tengo? Requiere que los logs estén habilitados y accesibles para validar entradas; confirmar configuración de auditoría.
 
 Día 6
 ¿Qué hice ayer? Probé bitácora de accesos y transacciones.
-¿Qué haré hoy? Realizaré pruebas de reportes de última conexión y datos personales.
-¿Qué impedimentos tengo? Ninguno relevante.
-
-Día 7
-¿Qué hice ayer? Probé reportes de última conexión y datos personales.
-¿Qué haré hoy? Ejecutaré pruebas de cambios de contraseña y reporte de tiempo promedio.
-¿Qué impedimentos tengo? Dependo de varias cuentas para pruebas de contraseña.
-
-Día 8
-¿Qué hice ayer? Realicé pruebas de cambios de contraseña y tiempos promedio.
-¿Qué haré hoy? Haré pruebas de exportación de reportes, filtros y login de usuarios bloqueados.
-¿Qué impedimentos tengo? Ninguno significativo.
-
-Día 9
-¿Qué hice ayer? Probé exportación de reportes, filtros y login en usuarios bloqueados.
-¿Qué haré hoy? Ejecutaré pruebas de integración de flujos de seguridad y plan de pruebas.
-¿Qué impedimentos tengo? Necesito coordinación con el equipo para la integración.
-
-Día 10:
-¿Qué hice ayer? Probé exportación de reportes, filtros y login en usuarios bloqueados.
-¿Qué haré hoy? Ejecutaré pruebas de integración de flujos de seguridad y plan de pruebas.
-¿Qué impedimentos tengo? Solo coordinación con el equipo para validar la documentación final.
+¿Qué haré hoy? Realizaré pruebas integrales del sistema: integración de flujos de seguridad, reportes, exportación y filtros de reportes, y validación final del plan de pruebas; además reportaré errores y verificaré correcciones con el equipo.
+¿Qué impedimentos tengo? Necesito coordinación con el equipo para pruebas de integración y validación de la documentación final; puede requerirse acceso a cuentas adicionales para pruebas finales.
